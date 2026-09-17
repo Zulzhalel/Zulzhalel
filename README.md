@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Zulzhalel/Zulzhalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior Python developer and a Computer Engineering & Networks student.
 
-Here are some ideas to get you started:
+### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Improving my Python skills
+* 🐧 Linux and system configuration
+* 🌐 Networking and server administration
+* 🟩 Developing and managing **SlimeMC**
+* 💻 Building small projects and learning new technologies
+
+### Tools I use
+
+`Python` `Linux` `Git` `GitHub` `Bash` `PowerShell` `VS Code` `Neovim`
+
+### Reach me
+
+* GitHub: you're already here :)
+* Discord: `zulzhalel`
