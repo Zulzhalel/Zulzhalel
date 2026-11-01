@@ -7,7 +7,7 @@ I'm a junior Python developer and a Computer Engineering & Networks student.
 *  Improving my Python skills
 *  Linux and system configuration
 *  Networking and server administration
-*  Developing and managing **SlimeMC**
+*  Develop my English and Logic
 *  Building small projects and learning new technologies
 
 ### Tools I use
